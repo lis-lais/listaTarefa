@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701359999005",
+    "project_id": "lista-c896c",
+    "storage_bucket": "lista-c896c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701359999005:android:1b4f97f99015ed1391def4",
+        "android_client_info": {
+          "package_name": "com.mycompany.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdy4HFKvrUwa22qqEZdFaAc-axigp6kbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701359999005:android:ef0f2f3a942a1eef91def4",
+        "android_client_info": {
+          "package_name": "com.mycompany.lista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdy4HFKvrUwa22qqEZdFaAc-axigp6kbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
